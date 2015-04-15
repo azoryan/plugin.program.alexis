@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.program.alexis" name="Alexis v.1.0.2" version="1.0.2" provider-name="Azoryan et Stikass">
+<addon id="plugin.program.alexis" name="Alexis v.1.0.2b" version="1.0.2" provider-name="Azoryan et Stikass">
     <requires>
 		<import addon="xbmc.python" version="2.14.0"/>
 	</requires>
@@ -8,18 +8,30 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<platform>all</platform>
-		<summary lang="en">Alexis v1.1 - 1er addon - version beta </summary>
+		<summary lang="en">Alexis v1.0.2beta - 1er addon - prototype</summary>
 		<description lang="en">
 			Ce programe permet d'acceder aux chaines de Music.
 			PlayLists par Azoryan et Stikass
 		</description>
 		<disclaimer lang="en">
-			Avant d'utiliser ce pluggin, vueillez verifier les lois en vigeur dans votre pays de residence.
-			Il se peut que certaines parties de pluggin ne respecte pas les lois en vigueur dans votre pays.
+			Avant d'utiliser ce pluggin:
+			
+			Vueillez verifier les lois en vigeur dans votre pays de residence.
+			
+			Il se peut que certaines parties de pluggin ne s'accordent pas avec
+			les lois en vigueur dans votre pays de résidence.
 			Nous ne sommes pas responsables des contenus accedees via ce pluggin.
-			Nous ne sommes pas affilie de quelque maniere quil soit au contenus accecibles via ce plugin.
+			
+			Nous ne sommes pas affiliés de quelque maniere quil soit au contenus
+			accecibles via ce plugin directement ou indirectement.
 			Nos hebergons aucun de ces contenus.
-			A utiliser a vos propres risques.
+			
+			Azoryan et Stikass ansi que aitek.ch decline tout responsabilité si
+			vous utilisé ce plugin et violez ainsi de quelque maniere quil soit
+			les lois en vigeur dans votre pays de résidence ou pays ou vous
+			ferais utilisation de software.
+
+			A utiliser avec moderation voir precaution.
 		</disclaimer>
 		<license>Copyright (c) 2015 - Azoryan / Stikass - aitek.ch</license>
 		<language></language>

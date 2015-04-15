@@ -1,9 +1,12 @@
 1.0.2 Correction de certains bugs.
 
 - creation du fan art.
+- creation du nouveau icon pour le pluggin.
 - modification du ficher licence.txt
-- modification du ficher xml.
-- ajouté le disclaimer.
+- modification du ficher addon.xml pour inclure les updates.
+- ajouté le disclaimer au fichier xml
+- crée le "depot" (repositorie) sur github pour les majs.
+
 
 1.0.0 Initial Release - completement a jours.
 ----------------------------------------------------------------

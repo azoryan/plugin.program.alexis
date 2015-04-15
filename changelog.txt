@@ -1,0 +1,19 @@
+1.0.2 Correction de certains bugs.
+
+- creation du fan art.
+- modification du ficher licence.txt
+- modification du ficher xml.
+- ajouté le disclaimer.
+
+1.0.0 Initial Release - completement a jours.
+----------------------------------------------------------------
+- implementation et debogage du scrapper.
+- implementation du menu principal avec le contenu du scapper.
+- creation de sintaxe pour le fichier playlist.
+- stockage du playliste sur pastbin.com pour beta testing.
+- creation de l'icone de aitek.ch (version beta).
+----------------------------------------------------------------
+- programé par: Azoryan.
+- beta testing: Azorian & Stikass.
+
+(C) 2015 aitek.ch

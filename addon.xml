@@ -9,11 +9,22 @@
 	<extension point="xbmc.addon.metadata">
 		<platform>all</platform>
 		<summary lang="en">Alexis v1.1 - 1er addon - version beta </summary>
-		<description lang="en">Ce programe permet d'acceder au chaines de Music. PlayLists par Azoryan et Stikass</description>
-		<disclaimer lang="en">Avant d'utiliser ce pluggin, vueillez verifier les lois en vigeur dans votre pays de residence, il se peut que certaines parties de pluggin ne soit pas en accordance avec les lois en vigueur dans votre pays. Nous ne sommes pas responsables des contenus accedees via ce pluggin, nos hebergons aucun de ces contenus non plus. A utiliser a vos propres risques.</disclaimer>
+		<description lang="en">
+			Ce programe permet d'acceder aux chaines de Music.
+			PlayLists par Azoryan et Stikass
+		</description>
+		<disclaimer lang="en">
+			Avant d'utiliser ce pluggin, vueillez verifier les lois en vigeur dans votre pays de residence.
+			Il se peut que certaines parties de pluggin ne respecte pas les lois en vigueur dans votre pays.
+			Nous ne sommes pas responsables des contenus accedees via ce pluggin.
+			Nous ne sommes pas affilie de quelque maniere quil soit au contenus accecibles via ce plugin.
+			Nos hebergons aucun de ces contenus.
+			A utiliser a vos propres risques.
+		</disclaimer>
 		<license>Copyright (c) 2015 - Azoryan / Stikass - aitek.ch</license>
 		<language></language>
 		<email>contact@aitek.ch</email>
 		<website>www.aitek.ch</website>
+		<source>https://github.com/azoryan/plugin.program.alexis</source>
 	</extension>
 </addon>
